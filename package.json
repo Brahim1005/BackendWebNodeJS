@@ -1,0 +1,11 @@
+{
+  "name": "backendwebnode",
+  "version": "1.0.0",
+  "description": "node api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brahim",
+  "license": "ISC"
+}
